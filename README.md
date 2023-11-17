@@ -2,5 +2,4 @@
 
 # Auth
 
-Họ và tên: Lưu Đình Luyện
-21810310472
+Họ và tên: Nguyễn Vũ Trường Giang
